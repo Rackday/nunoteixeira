@@ -1,14 +1,14 @@
 # Add Authors here
-johndoe:
-   name: John Doe
-   username: johndoe
+rackday:
+   name: Nuno Teixeira
+   username: rackday
    site: http://johndoe.com
    avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
+   bio: "Hello i am Nuno and i'm a Game Developer."
+   email: nuno97teixeira@gmail.com
    social:
-      - title: "github"
-        url: "https://github.com/johndoe"
+      - title: "GitHub"
+        url: "https://github.com/Rackday"
       - title: "linkedin"
         url: "https://www.linkedin.com/in/johndoe"
       - title: "youtube"
