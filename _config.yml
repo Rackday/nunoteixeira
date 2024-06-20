@@ -1,4 +1,4 @@
-title: devlopr
+title: rackday
 subtitle: A Portfolio Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
@@ -67,16 +67,10 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+github_username:  Rackday
+facebook_username: nuno.teixeira.940
+linkedin_username: nunoteixeira97
+instagram_username: nuno97teixeira
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
